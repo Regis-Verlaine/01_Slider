@@ -1,1 +1,1 @@
-### REACT + TAILWIND ###
+### 01_SLIDER ###
